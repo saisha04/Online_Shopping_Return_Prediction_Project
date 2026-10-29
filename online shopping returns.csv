@@ -1,0 +1,201 @@
+order_id,product_category,price,discount_percent,quantity,payment_method,device_type,customer_city,shipping_method,delivery_days,customer_age,previous_orders,previous_returns,product_rating,is_gift,returned
+ORD300001,Clothing,75.67,15,4,UPI,Mobile,Delhi,Same Day,1,63,4,0,4.3,No,Yes
+ORD300002,Home & Kitchen,62.28,20,1,Cash on Delivery,Desktop,Hyderabad,Standard,4,19,6,2,4.2,No,No
+ORD300003,Electronics,495.67,5,4,Debit Card,Mobile,Pune,Same Day,1,38,4,3,3.3,No,Yes
+ORD300004,Shoes,86.37,40,1,Credit Card,Tablet,Hyderabad,Standard,9,18,5,1,5.0,No,Yes
+ORD300005,Shoes,91.59,5,1,Cash on Delivery,Mobile,Hyderabad,Express,1,31,4,0,2.6,No,No
+ORD300006,Beauty,150.88,10,1,Cash on Delivery,Desktop,Pune,Standard,4,57,5,1,3.3,No,No
+ORD300007,Sports,74.11,30,2,Cash on Delivery,Mobile,Mumbai,Express,2,36,6,0,5.0,Yes,No
+ORD300008,Clothing,38.98,40,1,UPI,Tablet,Delhi,Standard,6,30,7,1,4.4,No,Yes
+ORD300009,Home & Kitchen,27.57,20,1,UPI,Desktop,Chennai,Standard,8,26,7,1,4.2,No,No
+ORD300010,Shoes,107.53,0,1,Cash on Delivery,Mobile,Kolkata,Same Day,1,52,8,2,4.0,No,No
+ORD300011,Clothing,124.50,25,2,Credit Card,Mobile,Bengaluru,Standard,5,34,9,4,3.1,No,Yes
+ORD300012,Electronics,320.00,10,1,UPI,Desktop,Delhi,Express,2,45,12,1,4.8,No,No
+ORD300013,Sports,45.20,0,1,Cash on Delivery,Mobile,Ahmedabad,Standard,4,22,2,0,4.5,No,No
+ORD300014,Beauty,89.90,15,3,UPI,Mobile,Mumbai,Standard,6,29,5,2,3.8,Yes,Yes
+ORD300015,Books,19.99,5,1,Debit Card,Desktop,Pune,Standard,3,50,14,0,4.9,No,No
+ORD300016,Shoes,110.00,30,1,Credit Card,Mobile,Bengaluru,Same Day,1,27,3,2,2.9,No,Yes
+ORD300017,Clothing,65.40,10,2,UPI,Tablet,Hyderabad,Express,2,41,6,1,4.0,No,No
+ORD300018,Home & Kitchen,145.00,20,1,Cash on Delivery,Desktop,Kolkata,Standard,7,39,8,3,3.5,No,Yes
+ORD300019,Electronics,680.50,0,1,Credit Card,Desktop,Bengaluru,Express,2,33,10,1,4.7,No,No
+ORD300020,Sports,55.00,15,1,Debit Card,Mobile,Delhi,Standard,4,25,1,0,4.1,No,No
+ORD300021,Clothing,88.75,35,3,UPI,Mobile,Mumbai,Standard,8,31,4,3,2.8,No,Yes
+ORD300022,Beauty,42.00,5,2,Cash on Delivery,Mobile,Chennai,Standard,3,48,7,0,4.6,No,No
+ORD300023,Shoes,135.20,20,1,Credit Card,Desktop,Pune,Express,2,23,5,2,3.4,No,Yes
+ORD300024,Books,34.50,10,1,UPI,Mobile,Delhi,Standard,4,60,15,1,4.9,Yes,No
+ORD300025,Home & Kitchen,95.00,15,2,Cash on Delivery,Tablet,Hyderabad,Standard,5,37,6,1,4.2,No,No
+ORD300026,Electronics,210.00,40,1,Debit Card,Mobile,Ahmedabad,Standard,9,28,3,2,3.0,No,Yes
+ORD300027,Clothing,52.30,0,1,UPI,Mobile,Bengaluru,Same Day,1,44,11,0,4.5,No,No
+ORD300028,Sports,112.00,25,1,Cash on Delivery,Mobile,Kolkata,Express,3,32,5,1,3.9,No,No
+ORD300029,Shoes,78.90,10,1,Credit Card,Desktop,Delhi,Standard,4,55,9,3,3.2,No,Yes
+ORD300030,Beauty,64.00,20,2,UPI,Mobile,Mumbai,Standard,5,26,4,0,4.4,No,No
+ORD300031,Clothing,145.80,50,2,Cash on Delivery,Mobile,Pune,Standard,8,21,2,2,2.5,No,Yes
+ORD300032,Home & Kitchen,82.40,5,1,Debit Card,Desktop,Bengaluru,Express,2,53,13,1,4.6,No,No
+ORD300033,Electronics,540.00,15,1,Credit Card,Mobile,Hyderabad,Standard,4,36,8,1,4.3,No,No
+ORD300034,Sports,38.00,0,1,UPI,Tablet,Delhi,Standard,3,29,5,0,4.7,No,No
+ORD300035,Shoes,99.99,30,2,Cash on Delivery,Mobile,Chennai,Standard,7,35,4,3,3.1,No,Yes
+ORD300036,Books,28.00,10,1,Credit Card,Desktop,Mumbai,Standard,4,47,10,0,4.8,No,No
+ORD300037,Clothing,69.50,20,1,UPI,Mobile,Kolkata,Express,2,30,6,1,4.1,No,No
+ORD300038,Beauty,115.00,25,1,Debit Card,Tablet,Ahmedabad,Standard,6,42,7,2,3.6,No,Yes
+ORD300039,Home & Kitchen,190.00,10,3,Cash on Delivery,Desktop,Bengaluru,Standard,5,58,11,2,4.0,No,No
+ORD300040,Electronics,410.00,5,1,Credit Card,Mobile,Delhi,Same Day,1,33,9,0,4.5,No,No
+ORD300041,Clothing,83.20,40,2,UPI,Mobile,Hyderabad,Standard,9,24,3,3,2.7,No,Yes
+ORD300042,Sports,62.00,15,1,Cash on Delivery,Mobile,Pune,Standard,4,38,5,1,4.3,No,No
+ORD300043,Shoes,120.50,10,1,Debit Card,Desktop,Mumbai,Express,2,49,12,1,4.4,No,No
+ORD300044,Beauty,55.90,0,1,UPI,Mobile,Bengaluru,Standard,3,27,4,0,4.6,Yes,No
+ORD300045,Home & Kitchen,48.00,30,2,Cash on Delivery,Tablet,Delhi,Standard,7,34,5,2,3.3,No,Yes
+ORD300046,Electronics,720.00,20,1,Credit Card,Mobile,Kolkata,Standard,5,40,7,2,3.7,No,Yes
+ORD300047,Clothing,45.00,5,1,UPI,Desktop,Ahmedabad,Standard,4,52,14,0,4.8,No,No
+ORD300048,Shoes,155.00,35,1,Cash on Delivery,Mobile,Hyderabad,Standard,8,22,2,2,2.9,No,Yes
+ORD300049,Sports,85.50,10,2,Debit Card,Mobile,Chennai,Express,2,31,6,1,4.2,No,No
+ORD300050,Books,22.50,0,1,Credit Card,Desktop,Pune,Standard,3,62,15,0,5.0,No,No
+ORD300051,Clothing,98.00,25,3,UPI,Mobile,Bengaluru,Standard,6,28,4,2,3.4,No,Yes
+ORD300052,Home & Kitchen,74.00,15,1,Cash on Delivery,Mobile,Mumbai,Standard,4,45,8,1,4.1,No,No
+ORD300053,Electronics,350.00,10,1,Credit Card,Desktop,Delhi,Express,2,37,11,1,4.6,No,No
+ORD300054,Beauty,78.50,40,2,Cash on Delivery,Tablet,Hyderabad,Standard,9,20,1,1,3.0,No,Yes
+ORD300055,Shoes,88.00,5,1,UPI,Mobile,Pune,Same Day,1,35,7,0,4.5,No,No
+ORD300056,Sports,49.90,20,1,Debit Card,Mobile,Kolkata,Standard,5,43,9,1,4.0,No,No
+ORD300057,Clothing,115.40,30,2,Credit Card,Desktop,Ahmedabad,Standard,7,29,5,3,3.1,No,Yes
+ORD300058,Home & Kitchen,130.00,0,1,Cash on Delivery,Mobile,Bengaluru,Standard,4,51,10,1,4.4,No,No
+ORD300059,Electronics,480.00,25,1,UPI,Mobile,Delhi,Standard,6,32,6,2,3.5,No,Yes
+ORD300060,Beauty,36.00,10,1,Debit Card,Desktop,Chennai,Express,2,26,3,0,4.7,No,No
+ORD300061,Clothing,62.80,35,1,Cash on Delivery,Mobile,Mumbai,Standard,8,25,2,2,2.8,No,Yes
+ORD300062,Shoes,140.00,15,1,Credit Card,Tablet,Hyderabad,Standard,4,46,12,1,4.3,No,No
+ORD300063,Sports,92.00,5,2,UPI,Mobile,Pune,Standard,3,38,8,0,4.6,No,No
+ORD300064,Books,31.00,20,1,Debit Card,Desktop,Delhi,Standard,5,56,13,0,4.8,Yes,No
+ORD300065,Home & Kitchen,58.50,40,1,Cash on Delivery,Mobile,Bengaluru,Standard,9,23,3,3,3.0,No,Yes
+ORD300066,Electronics,290.00,10,2,Credit Card,Mobile,Kolkata,Express,2,41,9,1,4.2,No,No
+ORD300067,Clothing,79.90,0,1,UPI,Desktop,Ahmedabad,Standard,4,34,7,0,4.5,No,No
+ORD300068,Beauty,95.00,30,1,Cash on Delivery,Mobile,Hyderabad,Standard,7,30,4,2,3.3,No,Yes
+ORD300069,Shoes,105.00,20,1,Debit Card,Mobile,Chennai,Standard,5,48,11,2,3.9,No,No
+ORD300070,Sports,68.40,10,1,Credit Card,Tablet,Delhi,Same Day,1,27,5,0,4.4,No,No
+ORD300071,Clothing,130.00,45,4,Cash on Delivery,Mobile,Mumbai,Standard,9,19,1,1,2.6,No,Yes
+ORD300072,Home & Kitchen,88.00,15,1,UPI,Desktop,Pune,Standard,4,50,10,1,4.3,No,No
+ORD300073,Electronics,620.00,5,1,Credit Card,Mobile,Bengaluru,Express,2,39,14,0,4.9,No,No
+ORD300074,Beauty,48.00,25,2,Cash on Delivery,Mobile,Delhi,Standard,6,33,6,2,3.5,No,Yes
+ORD300075,Shoes,76.50,0,1,Debit Card,Desktop,Kolkata,Standard,3,44,8,0,4.7,No,No
+ORD300076,Sports,105.00,20,1,UPI,Mobile,Hyderabad,Standard,5,29,5,1,4.1,No,No
+ORD300077,Clothing,89.00,30,2,Cash on Delivery,Tablet,Ahmedabad,Standard,7,36,4,3,3.0,No,Yes
+ORD300078,Home & Kitchen,110.00,10,2,Credit Card,Mobile,Chennai,Express,2,54,12,1,4.5,No,No
+ORD300079,Electronics,380.00,35,1,UPI,Mobile,Bengaluru,Standard,8,28,5,3,3.2,No,Yes
+ORD300080,Books,18.00,5,1,Debit Card,Desktop,Pune,Standard,4,61,15,0,4.9,No,No
+ORD300081,Clothing,58.00,15,1,Cash on Delivery,Mobile,Delhi,Standard,4,31,6,1,4.0,No,No
+ORD300082,Beauty,125.00,20,1,Credit Card,Mobile,Mumbai,Standard,5,42,8,2,3.7,No,Yes
+ORD300083,Shoes,95.00,10,1,UPI,Desktop,Hyderabad,Same Day,1,37,9,0,4.6,No,No
+ORD300084,Sports,52.00,40,2,Cash on Delivery,Mobile,Kolkata,Standard,9,22,2,2,2.8,No,Yes
+ORD300085,Home & Kitchen,70.00,0,1,Debit Card,Mobile,Bengaluru,Standard,3,49,11,0,4.6,No,No
+ORD300086,Electronics,510.00,15,1,Credit Card,Tablet,Ahmedabad,Standard,4,35,7,1,4.4,No,No
+ORD300087,Clothing,102.50,25,3,Cash on Delivery,Mobile,Delhi,Standard,6,26,3,2,3.4,No,Yes
+ORD300088,Beauty,68.00,5,1,UPI,Desktop,Chennai,Express,2,40,10,0,4.8,No,No
+ORD300089,Shoes,160.00,30,1,Debit Card,Mobile,Pune,Standard,7,30,5,3,3.1,No,Yes
+ORD300090,Sports,79.00,10,1,Credit Card,Mobile,Mumbai,Standard,4,47,12,1,4.3,No,No
+ORD300091,Clothing,42.00,50,1,Cash on Delivery,Mobile,Hyderabad,Standard,8,20,1,1,2.5,No,Yes
+ORD300092,Home & Kitchen,135.00,20,2,UPI,Desktop,Bengaluru,Standard,5,52,9,2,3.9,No,No
+ORD300093,Electronics,260.00,0,1,Debit Card,Mobile,Delhi,Express,2,43,13,0,4.7,No,No
+ORD300094,Books,25.00,10,1,Credit Card,Tablet,Kolkata,Standard,3,59,14,0,5.0,Yes,No
+ORD300095,Beauty,84.00,35,2,Cash on Delivery,Mobile,Ahmedabad,Standard,8,25,4,3,2.9,No,Yes
+ORD300096,Shoes,82.00,15,1,UPI,Mobile,Pune,Standard,4,36,7,1,4.2,No,No
+ORD300097,Clothing,110.00,20,2,Credit Card,Desktop,Mumbai,Standard,5,38,8,2,3.6,No,Yes
+ORD300098,Sports,64.00,0,1,Cash on Delivery,Mobile,Chennai,Same Day,1,28,4,0,4.5,No,No
+ORD300099,Home & Kitchen,92.00,30,1,Debit Card,Mobile,Bengaluru,Standard,7,45,6,2,3.5,No,Yes
+ORD300100,Electronics,750.00,10,1,Credit Card,Desktop,Delhi,Express,2,34,11,1,4.6,No,No
+ORD300101,Clothing,72.40,15,2,UPI,Mobile,Bengaluru,Standard,4,35,8,1,4.1,No,No
+ORD300102,Home & Kitchen,115.00,25,1,Cash on Delivery,Desktop,Mumbai,Standard,6,42,5,2,3.4,No,Yes
+ORD300103,Electronics,340.00,10,1,Credit Card,Mobile,Delhi,Express,2,50,12,0,4.7,No,No
+ORD300104,Shoes,125.00,35,1,Debit Card,Tablet,Hyderabad,Standard,8,24,3,3,2.8,No,Yes
+ORD300105,Beauty,45.50,0,1,UPI,Mobile,Pune,Same Day,1,29,6,0,4.6,No,No
+ORD300106,Sports,88.00,20,2,Cash on Delivery,Mobile,Kolkata,Standard,5,37,7,1,4.0,No,No
+ORD300107,Clothing,95.00,40,3,Credit Card,Mobile,Ahmedabad,Standard,9,21,2,2,2.7,No,Yes
+ORD300108,Home & Kitchen,65.00,5,1,UPI,Desktop,Chennai,Standard,3,56,13,0,4.8,No,No
+ORD300109,Electronics,580.00,15,1,Cash on Delivery,Mobile,Bengaluru,Standard,4,33,9,2,3.9,No,No
+ORD300110,Shoes,74.00,10,1,Debit Card,Desktop,Delhi,Express,2,46,10,1,4.3,No,No
+ORD300111,Clothing,135.00,30,2,UPI,Mobile,Mumbai,Standard,7,28,4,3,3.0,No,Yes
+ORD300112,Beauty,92.00,15,1,Credit Card,Tablet,Hyderabad,Standard,4,39,8,1,4.2,No,No
+ORD300113,Sports,58.00,0,1,Cash on Delivery,Mobile,Pune,Standard,3,31,5,0,4.5,Yes,No
+ORD300114,Books,36.00,10,1,UPI,Desktop,Delhi,Standard,4,58,15,0,4.9,No,No
+ORD300115,Home & Kitchen,84.00,35,2,Cash on Delivery,Mobile,Bengaluru,Standard,8,26,3,2,3.1,No,Yes
+ORD300116,Electronics,215.00,5,1,Debit Card,Mobile,Kolkata,Express,2,44,11,0,4.6,No,No
+ORD300117,Clothing,68.00,20,1,Credit Card,Desktop,Ahmedabad,Standard,5,36,7,1,4.1,No,No
+ORD300118,Shoes,150.00,45,1,Cash on Delivery,Mobile,Chennai,Standard,9,23,2,2,2.6,No,Yes
+ORD300119,Beauty,60.00,10,2,UPI,Mobile,Mumbai,Standard,4,48,9,1,4.4,No,No
+ORD300120,Sports,110.00,25,1,Credit Card,Tablet,Delhi,Standard,6,34,6,2,3.6,No,Yes
+ORD300121,Clothing,54.00,0,1,Cash on Delivery,Mobile,Pune,Same Day,1,41,8,0,4.7,No,No
+ORD300122,Home & Kitchen,140.00,15,2,Debit Card,Desktop,Bengaluru,Standard,5,51,10,2,4.0,No,No
+ORD300123,Electronics,460.00,20,1,UPI,Mobile,Hyderabad,Standard,6,30,5,2,3.5,No,Yes
+ORD300124,Shoes,89.00,10,1,Credit Card,Mobile,Delhi,Standard,4,43,12,0,4.5,No,No
+ORD300125,Beauty,110.00,30,1,Cash on Delivery,Desktop,Kolkata,Standard,7,27,4,3,3.2,No,Yes
+ORD300126,Sports,42.00,5,1,UPI,Mobile,Ahmedabad,Express,2,33,7,0,4.8,No,No
+ORD300127,Clothing,120.00,35,3,Debit Card,Tablet,Mumbai,Standard,8,25,3,2,2.9,No,Yes
+ORD300128,Home & Kitchen,78.00,10,1,Credit Card,Mobile,Chennai,Standard,4,49,11,1,4.3,No,No
+ORD300129,Electronics,690.00,0,1,Cash on Delivery,Desktop,Delhi,Same Day,1,38,13,0,4.9,No,No
+ORD300130,Books,21.00,15,1,UPI,Mobile,Pune,Standard,3,63,14,0,4.9,No,No
+ORD300131,Shoes,98.00,40,2,Cash on Delivery,Mobile,Bengaluru,Standard,9,22,2,2,2.7,No,Yes
+ORD300132,Clothing,82.00,15,1,Credit Card,Desktop,Hyderabad,Standard,4,37,9,1,4.2,No,No
+ORD300133,Beauty,75.00,20,1,Debit Card,Mobile,Delhi,Standard,5,45,8,2,3.8,No,No
+ORD300134,Sports,96.00,30,2,Cash on Delivery,Mobile,Kolkata,Standard,7,29,4,3,3.1,No,Yes
+ORD300135,Home & Kitchen,52.00,0,1,UPI,Tablet,Ahmedabad,Standard,3,53,12,0,4.6,Yes,No
+ORD300136,Electronics,390.00,25,1,Credit Card,Mobile,Mumbai,Standard,6,35,6,2,3.7,No,Yes
+ORD300137,Clothing,48.00,10,1,Cash on Delivery,Desktop,Chennai,Express,2,40,7,0,4.4,No,No
+ORD300138,Shoes,130.00,20,1,UPI,Mobile,Bengaluru,Standard,5,32,8,2,3.9,No,No
+ORD300139,Beauty,40.00,35,2,Cash on Delivery,Mobile,Pune,Standard,8,20,1,1,2.8,No,Yes
+ORD300140,Sports,72.00,10,1,Debit Card,Desktop,Delhi,Standard,4,47,10,1,4.3,No,No
+ORD300141,Clothing,105.00,25,2,Credit Card,Mobile,Hyderabad,Standard,6,28,5,2,3.3,No,Yes
+ORD300142,Home & Kitchen,96.00,15,1,Cash on Delivery,Tablet,Kolkata,Standard,4,46,9,1,4.2,No,No
+ORD300143,Electronics,530.00,5,1,UPI,Mobile,Ahmedabad,Same Day,1,39,12,0,4.7,No,No
+ORD300144,Shoes,65.00,40,1,Cash on Delivery,Mobile,Mumbai,Standard,9,24,2,2,2.9,No,Yes
+ORD300145,Beauty,88.00,0,1,Debit Card,Desktop,Chennai,Standard,3,55,11,0,4.8,No,No
+ORD300146,Sports,60.00,20,1,Credit Card,Mobile,Bengaluru,Standard,5,36,6,1,4.1,No,No
+ORD300147,Clothing,140.00,30,3,Cash on Delivery,Mobile,Delhi,Standard,7,26,3,3,3.0,No,Yes
+ORD300148,Home & Kitchen,125.00,10,2,UPI,Desktop,Pune,Express,2,50,13,1,4.5,No,No
+ORD300149,Electronics,270.00,35,1,Credit Card,Tablet,Hyderabad,Standard,8,31,4,2,3.2,No,Yes
+ORD300150,Books,29.00,5,1,Cash on Delivery,Mobile,Kolkata,Standard,4,57,15,0,5.0,No,No
+ORD300151,Clothing,64.00,15,1,Debit Card,Mobile,Ahmedabad,Standard,4,33,7,1,4.1,No,No
+ORD300152,Shoes,115.00,20,1,UPI,Desktop,Bengaluru,Standard,5,42,9,2,3.8,No,No
+ORD300153,Beauty,130.00,45,2,Cash on Delivery,Mobile,Mumbai,Standard,9,22,2,2,2.7,No,Yes
+ORD300154,Sports,48.00,0,1,Credit Card,Mobile,Delhi,Same Day,1,28,5,0,4.6,No,No
+ORD300155,Home & Kitchen,72.00,25,1,Cash on Delivery,Tablet,Chennai,Standard,6,44,6,2,3.5,No,Yes
+ORD300156,Electronics,650.00,10,1,Debit Card,Desktop,Pune,Express,2,40,11,1,4.4,No,No
+ORD300157,Clothing,92.00,35,2,UPI,Mobile,Hyderabad,Standard,8,29,4,3,3.1,No,Yes
+ORD300158,Beauty,52.00,10,1,Credit Card,Mobile,Kolkata,Standard,4,48,8,0,4.5,No,No
+ORD300159,Shoes,85.00,5,1,Cash on Delivery,Mobile,Ahmedabad,Standard,3,35,7,0,4.4,No,No
+ORD300160,Sports,120.00,30,2,Debit Card,Desktop,Bengaluru,Standard,7,30,5,2,3.3,No,Yes
+ORD300161,Clothing,39.00,0,1,UPI,Mobile,Delhi,Express,2,54,14,0,4.8,No,No
+ORD300162,Home & Kitchen,160.00,20,3,Credit Card,Mobile,Mumbai,Standard,5,37,8,1,4.0,No,No
+ORD300163,Electronics,310.00,40,1,Cash on Delivery,Tablet,Pune,Standard,9,23,2,2,2.8,No,Yes
+ORD300164,Books,17.50,10,1,Debit Card,Desktop,Hyderabad,Standard,3,60,15,0,4.9,Yes,No
+ORD300165,Shoes,145.00,15,1,UPI,Mobile,Chennai,Standard,4,45,10,1,4.2,No,No
+ORD300166,Beauty,70.00,25,2,Cash on Delivery,Mobile,Kolkata,Standard,6,31,5,2,3.6,No,Yes
+ORD300167,Clothing,78.00,10,1,Credit Card,Desktop,Ahmedabad,Standard,4,38,9,1,4.3,No,No
+ORD300168,Sports,84.00,35,1,Cash on Delivery,Mobile,Bengaluru,Standard,8,27,3,2,3.0,No,Yes
+ORD300169,Home & Kitchen,45.00,5,1,UPI,Mobile,Delhi,Same Day,1,51,12,0,4.7,No,No
+ORD300170,Electronics,490.00,15,1,Debit Card,Tablet,Mumbai,Standard,5,36,7,1,4.3,No,No
+ORD300171,Clothing,118.00,40,3,Cash on Delivery,Mobile,Hyderabad,Standard,9,21,1,1,2.6,No,Yes
+ORD300172,Beauty,98.00,10,1,Credit Card,Desktop,Pune,Standard,4,43,9,1,4.2,No,No
+ORD300173,Shoes,70.00,0,1,UPI,Mobile,Chennai,Express,2,30,6,0,4.6,No,No
+ORD300174,Sports,55.00,20,1,Cash on Delivery,Mobile,Kolkata,Standard,5,42,8,1,4.0,No,No
+ORD300175,Home & Kitchen,105.00,30,2,Debit Card,Desktop,Ahmedabad,Standard,7,35,5,2,3.4,No,Yes
+ORD300176,Electronics,780.00,10,1,Credit Card,Mobile,Bengaluru,Express,2,41,13,0,4.8,No,No
+ORD300177,Clothing,86.00,25,2,UPI,Tablet,Delhi,Standard,6,28,4,2,3.3,No,Yes
+ORD300178,Beauty,44.00,15,1,Cash on Delivery,Mobile,Mumbai,Standard,4,49,10,0,4.5,No,No
+ORD300179,Shoes,102.00,30,1,Credit Card,Mobile,Pune,Standard,7,32,5,3,3.1,No,Yes
+ORD300180,Books,33.00,0,1,Debit Card,Desktop,Hyderabad,Standard,3,58,14,0,4.9,No,No
+ORD300181,Clothing,59.00,10,1,UPI,Mobile,Kolkata,Standard,4,39,8,1,4.2,No,No
+ORD300182,Home & Kitchen,80.00,35,2,Cash on Delivery,Mobile,Chennai,Standard,8,25,3,2,2.9,No,Yes
+ORD300183,Electronics,370.00,15,1,Credit Card,Desktop,Bengaluru,Standard,4,47,11,1,4.4,No,No
+ORD300184,Sports,66.00,5,1,Cash on Delivery,Tablet,Delhi,Same Day,1,33,7,0,4.6,No,No
+ORD300185,Shoes,135.00,40,2,Debit Card,Mobile,Mumbai,Standard,9,24,2,2,2.7,No,Yes
+ORD300186,Beauty,62.00,20,1,UPI,Mobile,Ahmedabad,Standard,5,37,6,1,4.1,No,No
+ORD300187,Clothing,125.00,20,2,Credit Card,Desktop,Pune,Standard,5,34,7,2,3.5,No,Yes
+ORD300188,Home & Kitchen,150.00,0,2,Cash on Delivery,Mobile,Hyderabad,Express,2,53,12,0,4.6,No,No
+ORD300189,Electronics,240.00,30,1,UPI,Mobile,Kolkata,Standard,7,29,4,2,3.4,No,Yes
+ORD300190,Sports,80.00,15,1,Debit Card,Tablet,Chennai,Standard,4,44,9,1,4.2,No,No
+ORD300191,Clothing,46.00,45,1,Cash on Delivery,Mobile,Bengaluru,Standard,9,20,1,1,2.5,No,Yes
+ORD300192,Beauty,105.00,10,1,Credit Card,Mobile,Delhi,Standard,4,41,8,1,4.3,No,No
+ORD300193,Shoes,90.00,15,1,UPI,Desktop,Mumbai,Same Day,1,36,6,0,4.5,No,No
+ORD300194,Home & Kitchen,68.00,25,1,Cash on Delivery,Mobile,Pune,Standard,6,46,7,2,3.6,No,Yes
+ORD300195,Electronics,560.00,5,1,Debit Card,Mobile,Hyderabad,Express,2,40,11,0,4.7,No,No
+ORD300196,Clothing,99.00,35,3,Credit Card,Tablet,Ahmedabad,Standard,8,27,3,3,3.0,No,Yes
+ORD300197,Sports,45.00,10,1,Cash on Delivery,Mobile,Kolkata,Standard,4,32,5,0,4.4,Yes,No
+ORD300198,Beauty,82.00,20,1,UPI,Desktop,Bengaluru,Standard,5,48,10,1,4.2,No,No
+ORD300199,Shoes,110.00,30,1,Debit Card,Mobile,Delhi,Standard,7,30,4,2,3.2,No,Yes
+ORD300200,Home & Kitchen,85.00,10,1,Credit Card,Mobile,Chennai,Standard,4,50,9,1,4.4,No,No

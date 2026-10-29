@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+returnwise_history.db
+model/*.joblib
+model/model_metadata.json
+dataset/
